@@ -1,0 +1,12 @@
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\bin\iPhoneSimulator\Debug\CalculaterLAB3.exe
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\bin\iPhoneSimulator\Debug\CalculaterLAB3.pdb
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\CalculaterLAB3.csprojResolveAssemblyReference.cache
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\CalculaterLAB3.exe
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\CalculaterLAB3.pdb
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\obj\iPhoneSimulator\Debug\CalculaterLAB3.exe.mdb
+C:\Users\silva\Desktop\IOSMOBILE\CalculaterLAB3\CalculaterLAB3\bin\iPhoneSimulator\Debug\CalculaterLAB3.exe.mdb
